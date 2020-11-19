@@ -32,12 +32,12 @@ body {
 
 .message {
     background-color: lightgray;
-    width: 24%;
+    width: auto;
     border: 2px black solid;
     border-radius: 5px;
     padding: 5px;
     margin: 5px;
-    overflow: scroll;
+    overflow: auto;
 }
 
 .left {
@@ -102,7 +102,7 @@ body {
         width: 20%;
     }
     .message {
-        width: 50%;
+        width: 60%;
     }
 }
 
