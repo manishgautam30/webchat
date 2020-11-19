@@ -13,7 +13,7 @@ const append = (message, position) => {
     messageElement.classList.add('message');
     messageElement.classList.add(position);
     messageContainer.append(messageElement);
-    if (position == 'right')
+    if (position == 'left')
         audio_receive.play();
     else
         audio_send.play();
