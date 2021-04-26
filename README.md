@@ -10,4 +10,6 @@
  ####    a. use command "npm i nodemon"
  ####    b. use command "npm i socket.io" 
 ### 3. Run command "nodemon ./index.js" to start the server.
-### 4. Now you are all set to GO LIVE (via VS Code Editor) || just simply goto your default browser and type the url - http://localhost:5500/ 
+### 4. Now before you use your application ADD "Moesif Origin & CORS Changer" EXTENSION into your default browser(recommended GOOGLE CHROME) and turn it on. 
+#### Link for the extension -> https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc 
+### 5. Now you are all set to GO LIVE (via VS Code Editor) || just simply goto your default browser and type the url - http://localhost:5500/ 
