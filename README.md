@@ -1,6 +1,6 @@
 # Webchat -Application
 
-### Online Chat Web Application to chat hosted on local server with the defalut port number 5500
+### Online Chat Web Application to chat hosted on local server with the default port number 5500
 
 ## To Run Follow the steps below if you are using this code in the repository:
 
