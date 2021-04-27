@@ -5,7 +5,7 @@
 ## To Run Follow the steps below if you are using this code in the repository:
 
 ### 1.Fork repository and open it in your IDE( I Personally Used VsCode Editor).
-### 2. Open a terminal and run command "npm init" and proceed to YES  
+### 2. Open a terminal and run command "npm init" and proceed till YES  
 ### 3. Now move to nodeserver directory or just simply run command "cd ./nodeServer/" 
 ### 4. Now get following dependencies installed:
  ####    a. use command "npm i nodemon"
